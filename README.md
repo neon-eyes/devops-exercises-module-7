@@ -4,11 +4,11 @@
 #### "Monitoring - Prometheus"
 
 
-####Export These Environment Variables Before Running 'docker-compose up' 
-#DB_USER=admin
-#DB_PWD=adminpass
-#DB_SERVER=mysql
-#DB_NAME=team-projects
-#MYSQL_ROOT_PASSWORD=rootpass
-#PMA_HOST=mysql
-#PMA_PORT=3306
+#### Export These Environment Variables Before Running 'docker-compose up' 
+# DB_USER=admin
+# DB_PWD=adminpass
+# DB_SERVER=mysql
+# DB_NAME=team-projects
+# MYSQL_ROOT_PASSWORD=rootpass
+# PMA_HOST=mysql
+# PMA_PORT=3306
